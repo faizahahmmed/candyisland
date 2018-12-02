@@ -92,11 +92,11 @@ p {
     width: 100%;
     padding: 30px 0 30px;
     margin-top: 50px;
-    background: #16A085;
+    background: #a970a9;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    color: #fff;
+    color: #4d004d;
 }
 
 
@@ -104,7 +104,7 @@ p {
     
     height: 350px;
     width: 450px;
-    margin: 70px 0 0 40px;
+    margin: 700px 0 0 40px;
 }
 
 .header h1 {
@@ -192,8 +192,8 @@ p {
     font-size: 30px;
     padding: 25px 20px;
     border-radius: 50%;
-    background-color: #6699cc;
-    color: #fff;
+    background-color: #b170ff;
+    color: #6699cc;
 }
 
 
@@ -212,7 +212,7 @@ p {
     
     padding: 50px 0 80px;
     text-align: center;
-    background-color: #3399ff;
+    background-color: #b1ffdc;
 }
 
 .pricing p {
@@ -282,6 +282,7 @@ p {
     
     padding: 50px 0 80px;
     text-align: center;
+    background color:#ffffdc;
 }
 
 .team strong,
@@ -289,13 +290,13 @@ p {
 .team h4 {
     
     margin: 20px 0 20px;
-    color: #4c4c4c;
+    color: #4c;
 }
 
 
 .team p {
     
-    color: #737373;
+    color: #;
 }
 
 .team img {
@@ -313,8 +314,8 @@ p {
     padding: 5px;
     font-size: 17px;
     border-radius: 50%;
-    background-color: #a0db8e;
-    color: #fff;
+    background-color: #3300ff;
+    color: #780;
 }
 
 .team a:hover i {
@@ -328,14 +329,14 @@ p {
 .clients {
     
     padding: 50px 0 80px;
-    background-color: #3399ff;
+    background-color: #a3aeff;
     text-align: center;
-    color: #fff;
+    color: #6500ff;
 }
 
 .client h2 {
     
-    color: #5e5e5e;
+    color: #0000ff;
 }
 
 .clients p {
@@ -370,7 +371,7 @@ p {
 .contact p {
     
     padding-bottom: 80px;
-    color: #737373;
+    color: #684fff;
 }
 
 .contact h2 {
