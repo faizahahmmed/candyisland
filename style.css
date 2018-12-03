@@ -217,7 +217,7 @@ p {
 
 .pricing p {
     
-    color: #fff;
+    color: #1a0066;
 }
 
 .pricing p {
@@ -239,6 +239,23 @@ p {
     
     display: block;
     padding: 5px;
+}
+
+/*GIFTS*/
+
+.gifts {
+    
+    padding: 50px 0 80px;
+    text-align: center;
+    background-color: #00ff00;
+}
+.gifts .packages {
+    
+    padding: 30px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 5px;
+    margin-top: 30px;
 }
 
 .packages h4,
@@ -282,7 +299,7 @@ p {
     
     padding: 50px 0 80px;
     text-align: center;
-    background color:#ffffdc;
+    background color:#ffff00;
 }
 
 .team strong,
@@ -371,7 +388,7 @@ p {
 .contact p {
     
     padding-bottom: 80px;
-    color: #684fff;
+    color: #ff66990;
 }
 
 .contact h2 {
