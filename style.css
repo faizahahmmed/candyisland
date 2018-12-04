@@ -39,7 +39,7 @@ h4 {
 }
 
 p {
-    font-size: 15px;
+    font-size: 30px;
     line-height: 21px;
 }
 
@@ -98,6 +98,7 @@ p {
     background-size: cover;
     color: #4d004d;
 }
+
 
 
 .header img {
@@ -193,7 +194,7 @@ p {
     padding: 25px 20px;
     border-radius: 50%;
     background-color: #b170ff;
-    color: #6699cc;
+    color: #ffff00;
 }
 
 
@@ -202,6 +203,7 @@ p {
     .services {
         
         padding: 30px;
+        color:#000;
     }
 }
 
@@ -268,7 +270,7 @@ p {
 .packages p,
 .packages li {
     
-    color: #737373;
+    color: #737;
 }
 
 .packages button {
